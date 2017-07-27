@@ -1,7 +1,7 @@
 # CharlasTecnologia
 Repositorio de diversas charlas de tecnología
 
-- [x] 01	[Ver](https://github.com/silverfox78/CharlasTecnologia/S01_01_Modelo_Canvas - EMOYA) Que es un modelo canvas… - Miercoles 26 de Julio - EMOYA
+- [x] 01	**[Ver](https://github.com/silverfox78/CharlasTecnologia/S01_01_Modelo_Canvas - EMOYA/)** Que es un modelo canvas… - Miercoles 26 de Julio - EMOYA
 - [ ] 02	[Ver](https://github.com/silverfox78/CharlasTecnologia) Que es GTD… - Miercoles 02 de Agosto - JESPINOZA
 - [ ] 03	[Ver](https://github.com/silverfox78/CharlasTecnologia) Tipos de aplicaciones modernas y legadas… - Miercoles 09 de Agosto - DVARGAS
 - [ ] 04	[Ver](https://github.com/silverfox78/CharlasTecnologia) Que es la minería de datos… - Miercoles 16 de Agosto - CJARA
