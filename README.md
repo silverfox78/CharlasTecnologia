@@ -22,7 +22,7 @@ Aporte de Juan:
 - [x] 12	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_12_Historias_de_Usuario%20-%20SORTEGA)** Ver Que son las historias de usuarios…	SORTEGA		-	Lunes 11 de Septiembre
 - [ ] 13	[Ver](https://github.com/silverfox78/CharlasTecnologia) Etica y moralidad en nuestros trabajos...	IVICENCIO	-	Miercoles 13 de Septiembre
 
-**VAGACIONES
+**VAGACIONES**
 
 - [ ] 14	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Salesforce, para que sirve, como funciona…	RPEREZ	-	Lunes 25 de Septiembre
 - [ ] 15	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Liferay, para que sirve, como funciona…	ARISCO	-	Miercoles 27 de Septiembre
@@ -53,7 +53,7 @@ Aporte de Juan:
 - [ ] **Por Definir**
 
 
-##Bolsa de siguientes temas futuros:
+## Bolsa de siguientes temas futuros:
 - [ ] Tecnicas de negociacion? y manejo de la frustracion?	HMARTINEZ
 - [ ] Que es Devops, en profundidad, para que sirve, como funciona?
 - [ ] Que es API Gateway? Apuntando a como lo vamos a usar?
