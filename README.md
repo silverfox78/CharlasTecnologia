@@ -20,11 +20,11 @@ Aporte de Juan:
 - [x] 10	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_10_Conceptos_de_Calidad_y_Entrega%20-%20JMORALES)** Conceptos de Calidad y Entrega...	JMORALES	-	Lunes 04 de Septiembre
 - [x] 11	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_11_Trabajo_Versionado%20-%20ARIOSECO)** Como trabajar versionando...	ARIOSECO	-	Miercoles 06 de Septiembre
 - [x] 12	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_12_Historias_de_Usuario%20-%20SORTEGA)** Ver Que son las historias de usuarios…	SORTEGA		-	Lunes 11 de Septiembre
-- [ ] 13	[Ver](https://github.com/silverfox78/CharlasTecnologia) Etica y moralidad en nuestros trabajos...	IVICENCIO	-	Miercoles 13 de Septiembre
+- [X] 13	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_13_Etica_y_Moral%20IVICENCIO)** Etica y moralidad en nuestros trabajos...	IVICENCIO	-	Miercoles 13 de Septiembre
 
 **VAGACIONES**
 
-- [ ] 14	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Salesforce, para que sirve, como funciona…	RPEREZ	-	Lunes 25 de Septiembre
+- [X] 14	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/S01_14_Salesforce%20-%20RPEREZ)** Ver Que es Salesforce, para que sirve, como funciona…	RPEREZ	-	Lunes 25 de Septiembre
 - [ ] 15	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Liferay, para que sirve, como funciona…	ARISCO	-	Miercoles 27 de Septiembre
 - [ ] 16	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es TDD, BDD…	CHIDALGO	-	Lunes 02 de Octubre
 - [ ] 17	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es integración, mejora y mantención continua…	CDIAZ	-	Miercoles 04 de Octubre
