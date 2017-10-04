@@ -27,7 +27,7 @@ Aporte de Juan:
 - [X] 14	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_14_Salesforce%20-%20RPEREZ)** Ver Que es Salesforce, para que sirve, como funciona…	RPEREZ	-	Lunes 25 de Septiembre
 - [X] 15	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Liferay, para que sirve, como funciona…	ARISCO	-	Miercoles 27 de Septiembre
 - [X] 16	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_16_TDD_y_BDD%20-%20CHIDALGO)** Ver Que es TDD, BDD…	CHIDALGO	-	Lunes 02 de Octubre
-- [ ] 17	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es integración, mejora y mantención continua…	CDIAZ	-	Miercoles 04 de Octubre
+- [X] 17	**[Ver](https://github.com/silverfox78/CharlasTecnologia)** Ver Que es integración, mejora y mantención continua…	CDIAZ	-	Miercoles 04 de Octubre
 - [ ] 18	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es el Test de Joel…	MBRISO	-	Miercoles 11 de Octubre
 
 
@@ -36,27 +36,27 @@ Aporte de Juan:
 
 ## Temporada II
 
-- [ ] Gobierno TI	IRIVERA	-	Lunes 6 de Noviembre
-- [ ] PMI vs el mundo agile (Scrum, Lean, Xp...)	ABASSO	-	Miercoles 8 de Noviembre
-- [ ] Ver que es UX y UI, que consideraciones debemos tener...	SORTEGA	-	Lunes 13 de Noviembre
-- [ ] Que son los patrones de diseño empresarial...?	MBRISO	-	Miercoles 15 de Noviembre
-- [ ] Como hacemos y entregamos nuestro producto de manera ludica?	IVICENCIO	-	Lunes 20 de Noviembre
-- [ ] Fuse, ejemplos practicos como orquestador	SBARRERA	-	Miercoles 22 de Noviembre
-- [ ] Ver Que es Oauth y SSO, para que sirve, como funciona…	CDIAZ	-	Lunes 27 de Noviembre
-- [ ] Que es sincronico, asincronico, websocket, push...	CJARA	-	Miercoles 29 de Noviembre
-- [ ] Que es Javascript, EcmaScript, TypeScript, definicion, uso y buenas practicas...	ARISCO	-	Lunes 4 de Diciembre
-- [ ] Que es la facilitacion visual? que son los mapas mentales?	JMORALES	-	Miercoles 6 de Diciembre
-- [ ] Que es Angular?	JESPINOZA	-	Lunes 11 de Diciembre
-- [ ] Como abordamos la deuda tecnica? como generamos una base de conocimiento?	CHIDALGO	-	Miercoles 13 de Diciembre
-- [ ] Como fidelizar a nuestros usuarios...	HMARTINEZ	-	Lunes 18 de Diciembre
-- [ ] Fuse, entorno de trabajo	SBARRERA	-	Miercoles 20 de Diciembre
+- [ ] 01	Gobierno TI	IRIVERA	-	Lunes 6 de Noviembre
+- [ ] 02	PMI vs el mundo agile (Scrum, Lean, Xp...)	ABASSO	-	Miercoles 8 de Noviembre
+- [ ] 03	Ver que es UX y UI, que consideraciones debemos tener...	SORTEGA	-	Lunes 13 de Noviembre
+- [ ] 04	Que son los patrones de diseño empresarial...?	MBRISO	-	Miercoles 15 de Noviembre
+- [ ] 05	Como hacemos y entregamos nuestro producto de manera ludica?	IVICENCIO	-	Lunes 20 de Noviembre
+- [ ] 06	Fuse, ejemplos practicos como orquestador	SBARRERA	-	Miercoles 22 de Noviembre
+- [ ] 07	Ver Que es Oauth y SSO, para que sirve, como funciona…	CDIAZ	-	Lunes 27 de Noviembre
+- [ ] 08	Que es sincronico, asincronico, websocket, push...	CJARA	-	Miercoles 29 de Noviembre
+- [ ] 09	Que es Javascript, EcmaScript, TypeScript, definicion, uso y buenas practicas...	ARISCO	-	Lunes 4 de Diciembre
+- [ ] 10	Que es la facilitacion visual? que son los mapas mentales?	JMORALES	-	Miercoles 6 de Diciembre
+- [ ] 11	Que es Angular?	JESPINOZA	-	Lunes 11 de Diciembre
+- [ ] 12	Como abordamos la deuda tecnica? como generamos una base de conocimiento?	CHIDALGO	-	Miercoles 13 de Diciembre
+- [ ] 13	Como fidelizar a nuestros usuarios...	HMARTINEZ	-	Lunes 18 de Diciembre
+- [ ] 14	Fuse, entorno de trabajo	SBARRERA	-	Miercoles 20 de Diciembre
 
 **VAGACIONES**
 
-- [ ] Que es JIRA?	EMOYA
-- [ ] Que es la gestion del tiempo?	RPEREZ
-- [ ] Que es PMO?...	ARIOSECO
-- [ ] Que es Devops, en profundidad, para que sirve, como funciona?... DVARGAS
+- [ ] 15	Que es JIRA?	EMOYA
+- [ ] 16	Que es la gestion del tiempo?	RPEREZ
+- [ ] 17	Que es PMO?...	ARIOSECO
+- [ ] 18	Que es Devops, en profundidad, para que sirve, como funciona?...	DVARGAS
 
 
 
@@ -70,6 +70,7 @@ Aporte de Juan:
 - [ ] Como hacer una presentacion efectiva?
 - [ ] Aspect-Oriented Programming
 - [ ] Scrum - Celulas Agiles - Ceremonias - Retrospectiva - Herramientas - Roles
+- [ ] Que es la POO
 
 
 
