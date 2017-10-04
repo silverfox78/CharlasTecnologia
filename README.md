@@ -31,31 +31,37 @@ Aporte de Juan:
 - [ ] 18	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es el Test de Joel…	MBRISO	-	Miercoles 11 de Octubre
 
 
+**MUY MERECIDAS VAGACIONES**
+
+
 ## Temporada II
 
-- [ ] PMI vs el mundo agile (Scrum, Lean, Xp...)	ABASSO
-- [ ] Ver que es UX y UI, que consideraciones debemos tener...	SORTEGA
-- [ ] Que son los patrones de diseño empresarial...?	MBRISO
-- [ ] Como hacemos y entregamos nuestro producto de manera ludica?	IVICENCIO
-- [ ] Fuse, ejemplos practicos como orquestador	SBARRERA
-- [ ] Ver Que es Oauth y SSO, para que sirve, como funciona…	CDIAZ
-- [ ] Que es sincronico, asincronico, websocket, push...	CJARA
-- [ ] Que es Javascript, EcmaScript, TypeScript, definicion, uso y buenas practicas...	ARISCO
-- [ ] Que es la facilitacion visual? que son los mapas mentales?	JMORALES
-- [ ] Que es Angular?	JESPINOZA
-- [ ] Como abordamos la deuda tecnica? como generamos una base de conocimiento?	CHIDALGO
-- [ ] Como fidelizar a nuestros usuarios...	HMARTINEZ
-- [ ] Fuse, entorno de trabajo	SBARRERA
+- [ ] Gobierno TI	IRIVERA	-	Lunes 6 de Noviembre
+- [ ] PMI vs el mundo agile (Scrum, Lean, Xp...)	ABASSO	-	Miercoles 8 de Noviembre
+- [ ] Ver que es UX y UI, que consideraciones debemos tener...	SORTEGA	-	Lunes 13 de Noviembre
+- [ ] Que son los patrones de diseño empresarial...?	MBRISO	-	Miercoles 15 de Noviembre
+- [ ] Como hacemos y entregamos nuestro producto de manera ludica?	IVICENCIO	-	Lunes 20 de Noviembre
+- [ ] Fuse, ejemplos practicos como orquestador	SBARRERA	-	Miercoles 22 de Noviembre
+- [ ] Ver Que es Oauth y SSO, para que sirve, como funciona…	CDIAZ	-	Lunes 27 de Noviembre
+- [ ] Que es sincronico, asincronico, websocket, push...	CJARA	-	Miercoles 29 de Noviembre
+- [ ] Que es Javascript, EcmaScript, TypeScript, definicion, uso y buenas practicas...	ARISCO	-	Lunes 4 de Diciembre
+- [ ] Que es la facilitacion visual? que son los mapas mentales?	JMORALES	-	Miercoles 6 de Diciembre
+- [ ] Que es Angular?	JESPINOZA	-	Lunes 11 de Diciembre
+- [ ] Como abordamos la deuda tecnica? como generamos una base de conocimiento?	CHIDALGO	-	Miercoles 13 de Diciembre
+- [ ] Como fidelizar a nuestros usuarios...	HMARTINEZ	-	Lunes 18 de Diciembre
+- [ ] Fuse, entorno de trabajo	SBARRERA	-	Miercoles 20 de Diciembre
+
+**VAGACIONES**
+
 - [ ] Que es JIRA?	EMOYA
 - [ ] Que es la gestion del tiempo?	RPEREZ
 - [ ] Que es PMO?...	ARIOSECO
-- [ ] **Por Definir**
-- [ ] **Por Definir**
+- [ ] Que es Devops, en profundidad, para que sirve, como funciona?... DVARGAS
+
 
 
 ## Bolsa de siguientes temas futuros:
 - [ ] Tecnicas de negociacion? y manejo de la frustracion?	HMARTINEZ
-- [ ] Que es Devops, en profundidad, para que sirve, como funciona?
 - [ ] Que es API Gateway? Apuntando a como lo vamos a usar?
 - [ ] Como lograr la omnicanalidad, widgets, portlets, otros...
 - [ ] Seguridad en la Web y en la red interna...
@@ -64,7 +70,7 @@ Aporte de Juan:
 - [ ] Como hacer una presentacion efectiva?
 - [ ] Aspect-Oriented Programming
 - [ ] Scrum - Celulas Agiles - Ceremonias - Retrospectiva - Herramientas - Roles
-- [ ] Gobierno TI
+
 
 
 
