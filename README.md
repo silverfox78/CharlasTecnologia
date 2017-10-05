@@ -71,7 +71,10 @@ Aporte de Juan:
 - [ ] Aspect-Oriented Programming
 - [ ] Scrum - Celulas Agiles - Ceremonias - Retrospectiva - Herramientas - Roles
 - [ ] Que es la POO
-
+- [ ] .Net, evolucion del desarrollo de servicios (post, asmx, scv, wcf, web api, etc...)
+- [ ] Api's, vision practica de Rest y "Richardson"
+- [ ] Grandes personajes y un poco de historias innovadoras (Hasta el 2000)
+- [ ] Grandes personajes y un poco de historias innovadoras (Despues del 2000)
 
 
 
