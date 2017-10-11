@@ -28,7 +28,7 @@ Aporte de Juan:
 - [X] 15	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es Liferay, para que sirve, como funciona…	ARISCO	-	Miercoles 27 de Septiembre
 - [X] 16	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_16_TDD_y_BDD%20-%20CHIDALGO)** Ver Que es TDD, BDD…	CHIDALGO	-	Lunes 02 de Octubre
 - [X] 17	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_17_Ver_Que_es_integracion_mejora_y_mantencion_continua%20-%20CDIAZ)** Ver Que es integración, mejora y mantención continua…	CDIAZ	-	Miercoles 04 de Octubre
-- [ ] 18	[Ver](https://github.com/silverfox78/CharlasTecnologia) Ver Que es el Test de Joel…	MBRISO	-	Miercoles 11 de Octubre
+- [X] 18	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_18_Test_de_Joel%20-%20MBRISO)** Ver Que es el Test de Joel…	MBRISO	-	Miercoles 11 de Octubre
 
 
 **MUY MERECIDAS VAGACIONES**
