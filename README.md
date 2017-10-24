@@ -5,7 +5,7 @@ Repositorio de diversas charlas de tecnología
 Aporte de Juan:
 - [**Pressman**](http://cotana.informatica.edu.bo/downloads/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF)
 
-
+ 
 ## Temporada I
 
 - [x] 01	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S01/S01_01_Modelo_Canvas%20-%20EMOYA)** Ver Que es un modelo canvas…	EMOYA	-	Miercoles 26 de Julio
