@@ -53,11 +53,11 @@ Aporte de Juan:
 
 **VAGACIONES**
 
-- [ ] 15	Que es JIRA?	EMOYA
-- [ ] 16	Que es la gestion del tiempo?	RPEREZ
-- [ ] 17	Que es PMO?...	ARIOSECO
-- [ ] 18	Que es Devops, en profundidad, para que sirve, como funciona?...	DVARGAS
-
+- [ ] 15    Seguridad en la Web y en la red interna... LCESPEDES
+- [ ] 16	Que es JIRA?	EMOYA
+- [ ] 17	Que es la gestion del tiempo?	RPEREZ
+- [ ] 18	Que es PMO?...	ARIOSECO
+- [ ] 19	Que es Devops, en profundidad, para que sirve, como funciona?...	DVARGAS
 
 
 ## Bolsa de siguientes temas futuros:
@@ -75,7 +75,6 @@ Aporte de Juan:
 - [ ] Como logro trabajar en equipo y como hago que el equipo trabaje conmigo...
 - [ ] Que es API Gateway? Apuntando a como lo vamos a usar?
 - [ ] Como lograr la omnicanalidad, widgets, portlets, otros...
-- [ ] Seguridad en la Web y en la red interna...
 - [ ] Como gestionar un proyecto...
 - [ ] Como recepcionamos a nuevo elemento? que deberiamos considerar? que deberia saber de nosotros?
 - [ ] Como hacer una presentacion efectiva?
