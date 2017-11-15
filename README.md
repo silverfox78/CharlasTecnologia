@@ -39,7 +39,7 @@ Aporte de Juan:
 - [X] 01	[Ver] Gobierno TI	IRIVERA	-	Lunes 6 de Noviembre
 - [X] 02	[Ver] PMI vs el mundo agile (Scrum, Lean, Xp...)	ABASSO	-	Miercoles 8 de Noviembre
 - [X] 03	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S02/S02_03_UX_y_UI%20-%20SORTEGA)** Ver que es UX y UI, que consideraciones debemos tener...	SORTEGA	-	Lunes 13 de Noviembre
-- [ ] 04	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S02/S02_04_Patrones_Dise%C3%B1o_Empresarial%20-%20MBRISO)** Que son los patrones de diseño empresarial...?	MBRISO	-	Miercoles 15 de Noviembre
+- [X] 04	**[Ver](https://github.com/silverfox78/CharlasTecnologia/tree/master/Temporada_S02/S02_04_Patrones_Dise%C3%B1o_Empresarial%20-%20MBRISO)** Que son los patrones de diseño empresarial...?	MBRISO	-	Miercoles 15 de Noviembre
 - [ ] 05	Como hacemos y entregamos nuestro producto de manera ludica?	IVICENCIO	-	Lunes 20 de Noviembre
 - [ ] 06	Fuse, ejemplos practicos como orquestador	SBARRERA	-	Miercoles 22 de Noviembre
 - [ ] 07	Ver Que es Oauth y SSO, para que sirve, como funciona…	CDIAZ	-	Lunes 27 de Noviembre
